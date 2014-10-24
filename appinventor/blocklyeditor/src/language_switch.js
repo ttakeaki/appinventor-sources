@@ -26,7 +26,7 @@ Blockly.language_switch = {
     }
     switch (language) {
       case 'ja_JP':
-          Blockly.Msg.es_es.switch_language_to_japanese_ja.init();
+          Blockly.Msg.ja_jp.switch_language_to_japanese_ja.init();
           break;
       case 'es_ES':
           Blockly.Msg.es_es.switch_language_to_spanish_es.init();
