@@ -111,6 +111,8 @@
   <extend-property name="locale" values="zh_TW"/>
   <!-- Spanish from Spain -->
   <extend-property name="locale" values="es_ES"/>
+  <!-- Japanese may be only Japan -->
+  <extend-property name="locale" values="ja_JP"/>
 
   <set-property-fallback name="locale" value="en"/>
 
